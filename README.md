@@ -1,6 +1,4 @@
 # Advertising-Means-impact-on-Sales
-This repository includes exploratory data analysis on advertising data to study the impact of the advertising means on the sales.
-
 # Problem statement: 
 The advertising dataset captures the sales revenue generated with respect ot advertisement costs across multiple channels loike radio, tv and newspapers.
 In this little project, we use the linear regression to understand how spending on advertisements impact sales.
