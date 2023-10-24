@@ -5,6 +5,7 @@ This repository includes exploratory data analysis on advertising data to study 
 The advertising dataset captures the sales revenue generated with respect ot advertisement costs across multiple channels loike radio, tv and newspapers.
 In this little project, we use the linear regression to understand how spending on advertisements impact sales.
 The questions below will guide us to reveal informations from the data: 
+
 1/ Is there a relationship between ads and sales? 
 2/ If so, how strong is that relationship?
 3/ What types of ads contribute to sales ? 
