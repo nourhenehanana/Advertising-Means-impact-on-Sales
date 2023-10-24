@@ -7,9 +7,13 @@ In this little project, we use the linear regression to understand how spending 
 The questions below will guide us to reveal informations from the data: 
 
 1/ Is there a relationship between ads and sales? 
+
 2/ If so, how strong is that relationship?
+
 3/ What types of ads contribute to sales ? 
+
 4/ What is the effect each ad type has on sales? 
+
 5/ Given ad spending, can sales be predicted ? 
 
 # Result of the analysis
